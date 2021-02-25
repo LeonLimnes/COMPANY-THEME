@@ -1,3 +1,23 @@
 h1 {
     color: blueviolet;
 }
+
+.lt{
+    font-family: Monserrat, sans-serif;
+    color: white;
+}
+.lt-s{
+    font-size: 12px;
+}
+.lt-lg{
+    font-size: 18px;
+}
+.lt-com{
+    font-size: 63px;
+}
+.lt-sp{
+    font-size: 21px;
+}
+.bg-orange{
+    background-color: #f4511e;
+}
