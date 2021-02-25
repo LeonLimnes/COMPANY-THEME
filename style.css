@@ -1,23 +1,31 @@
 h1 {
     color: blueviolet;
 }
-
-.lt{
+.nav-link:hover{
+    background-color: white;
+    color: #f4511e;
+}
+.nav-link{
     font-family: Monserrat, sans-serif;
     color: white;
-}
-.lt-s{
     font-size: 12px;
 }
-.lt-lg{
+.navbar-brand{
+    font-family: Monserrat, sans-serif;
+    color: white;
     font-size: 18px;
 }
-.lt-com{
+.company{
+    font-family: Monserrat, sans-serif;
+    color: white;
     font-size: 63px;
 }
-.lt-sp{
+.sp{
+    font-family: Monserrat, sans-serif;
+    color: white;
     font-size: 21px;
 }
+
 .bg-orange{
     background-color: #f4511e;
 }
